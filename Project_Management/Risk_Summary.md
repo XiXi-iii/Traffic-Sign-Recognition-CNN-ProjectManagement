@@ -2,10 +2,11 @@
 [Risk_Summary.md](https://github.com/user-attachments/files/24347121/Risk_Summary.md)
 # Risk Summary
 
-| ID           | Risk                          | Likelihood   | Impact       | Mitigation                                                                         |
-|:-------------|:------------------------------|:-------------|:-------------|:-----------------------------------------------------------------------------------|
-| R1           | Dataset incomplete or corrupt | Medium       | High         | Validate files and sample data to ensure the dataset info is complete and correct. |
-| R2           | Model training failure        | Low          | High         | Keep backup models, review hyperparameters, monitor training process.              |
-| R3           | Demo not reproducible         | Medium       | Medium       | Provide exact environment setup, paths, and model files for reproducibility.       |
-| R4           | Delayed uploads               | Medium       | Medium       | Set internal deadlines, use reminders, and track progress of each member.          |
-| R5           | Team member unavailable       | Low          | Medium       | Share tasks, provide buffer time, and maintain clear communication among members.  |
+| ID  | Risk / Description                                 | Likelihood   | Impact       | Mitigation / Response                                                                                   |
+|:----|:--------------------------------------------------|:------------|:------------|:------------------------------------------------------------------------------------------------------|
+| R1  | Challenges in achieving targeted model accuracy   | Medium      | High        | Continuous model validation and testing were performed regularly to ensure accuracy targets were met. |
+| R2  | Issues with data quality                           | Medium      | High        | Dataset checks, cleaning, and sample validation were conducted throughout the project.                |
+| R3  | Possible delays in project schedule                | Medium      | Medium      | Frequent team meetings were held to monitor progress, adjust timelines, and address emerging issues. |
+| R4  | Errors or bugs in code                             | Low         | Medium      | Peer code reviews and regular testing were performed to maintain code quality and reduce errors.      |
+| R5  | Emerging unforeseen risks                          | Low         | Medium      | Ongoing risk monitoring and prompt response ensured minimal impact on project success.                |
+
