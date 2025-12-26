@@ -14,5 +14,5 @@ Developed the demo script to load the trained model for real-time testing.
 ## Member 4: []
 Managed the dataset and preprocessing steps.
 
-## Member 5: []
-Conducted Hazard Analysis and Risk Exposure calculations based on training results.
+## Member 5: [Siti Nurjihan binti Johari]
+Managed the project’s planning and documentation, including the Work Breakdown Structure, Gantt chart, and risk summary.
