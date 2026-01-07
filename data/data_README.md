@@ -16,4 +16,4 @@ Due to GitHub's file size limits, the raw `.tar` or `.zip` files are not include
 * **Format:** RGB (3-channel) color images.
 
 ## Label Mapping
-The mapping of class IDs to human-readable names can be found in `data_preprocessing.py` located in this folder.
+The mapping of class IDs to human-readable names can be found in `data_preprocessing.ipynb` located in this folder.
